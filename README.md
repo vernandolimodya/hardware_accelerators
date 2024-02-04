@@ -1,2 +1,2 @@
-# hardware_accelerators
+# Hardware Accelerators (Master's Thesis)
 Description coming soon.
