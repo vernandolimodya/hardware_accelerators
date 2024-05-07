@@ -1,0 +1,18 @@
+import numpy as np
+import shutil
+import os
+from google.colab import files
+
+if not os.path.exists("edgetpu/"):
+      os.mkdir("edgetpu/")
+
+for i in ["0.75", "0.5", "0.25", "0.0"]:
+      tflite_file = f"tmp/pid_sparsity_{i}.tflite"
+      %env TFLITE_FILE=$tflite_file
+      ! edgetpu_compiler $TFLITE_FILE
+
+      shutil.copy("pid_sparsity_" + str(i) + "_edgetpu.tflite", "edgetpu/")
+      shutil.copy("pid_sparsity_" + str(i) + "_edgetpu.log", "edgetpu/")
+
+shutil.make_archive("output_sparse", 'zip', "edgetpu/")
+files.download('output_sparse.zip')

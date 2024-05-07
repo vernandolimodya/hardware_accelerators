@@ -1,0 +1,17 @@
+ssh -p 22222 ga62sus@apollon.e18.physik.tu-muenchen.de:/nfs/momos/tmp/ga62sus/
+
+scp -P 22222 build_matmul_models.py ga62sus@login.e18.physik.tu-muenchen.de:/nfs/momos/tmp/ga62sus/
+
+scp -P 22222 ga62sus@login.e18.physik.tu-muenchen.de:/nfs/momos/tmp/ga62sus/tpu_models_ext3/<model-name> tpu_models_ext3/
+scp -r -P 22222 ga62sus@login.e18.physik.tu-muenchen.de:/nfs/momos/tmp/ga62sus/vpu_models_ext3/<model-name> vpu_models_ext3/
+
+cd /nfs/momos/tmp/ga62sus/
+source tf_env38/bin/activate
+
+pip install tensorflow
+pip install pandas
+pip install urllib3==1.26.6
+
+ncdu #check diskspace
+
+exit

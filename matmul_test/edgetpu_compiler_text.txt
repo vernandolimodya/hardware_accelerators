@@ -1,0 +1,40 @@
+import numpy as np
+import shutil
+from google.colab import files
+
+! unzip tpu_models.zip
+
+for i in [1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192]:
+    for j in [1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192]:
+      shutil.copy("tpu_models/matmul_" + str(i) + "_" + str(j) + ".tflite", "tmp/")
+
+      tflite_file = f"tmp/matmul_{i}_{j}.tflite"
+      %env TFLITE_FILE=$tflite_file
+      ! edgetpu_compiler $TFLITE_FILE
+
+      shutil.copy("matmul_" + str(i) + "_" + str(j) + "_edgetpu.tflite", "tmp/")
+      shutil.copy("matmul_" + str(i) + "_" + str(j) + "_edgetpu.log", "tmp/")
+
+shutil.make_archive("output_matmul", 'zip', "tmp")
+files.download('output_matmul.zip')
+
+
+for i in [1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192]:
+    for j in [1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192]:
+      if i <= 1024 and j <=1024:
+        pass
+      else:
+        tflite_file = f"tmp/matmul_{i}_{j}.tflite"
+        %env TFLITE_FILE=$tflite_file
+        ! edgetpu_compiler $TFLITE_FILE
+
+for i in [1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192]:
+    for j in [1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192]:
+      if i <= 1024 and j <=1024:
+        pass
+      else:
+        shutil.copy("matmul_" + str(i) + "_" + str(j) + "_edgetpu.tflite", "tmp/")
+        shutil.copy("matmul_" + str(i) + "_" + str(j) + "_edgetpu.log", "tmp/")
+
+shutil.make_archive("output_matmul", 'zip', "tmp")
+files.download('output_matmul.zip')

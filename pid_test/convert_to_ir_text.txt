@@ -1,0 +1,4 @@
+/// COPY THIS TO THE CMD PROMPT AFTER ACTIVATING THE ENVIRONMENT openvino_env ///
+
+mo --input_model pidTest.pb --input_shape [1,16,32,1],[1,16,32,1] --input "x,x_1" --model_name pidTest --output_dir mo_openvino --layout "NHWC,NHWC"
+mo --input_model pidTest.pb --input_shape [1,16,32,1],[1,16,32,1] --input "x,x_1" --model_name pidTest_compressed --output_dir mo_openvino --layout "NHWC,NHWC" --compress_to_fp16

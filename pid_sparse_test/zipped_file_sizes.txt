@@ -1,0 +1,4 @@
+Zipped file size of pid_sparsity_0.75 :  824796 bytes
+Zipped file size of pid_sparsity_0.50 : 1383749 bytes
+Zipped file size of pid_sparsity_0.25 : 1802289 bytes
+Zipped file size of pid_sparsity_0.00 : 2087981 bytes

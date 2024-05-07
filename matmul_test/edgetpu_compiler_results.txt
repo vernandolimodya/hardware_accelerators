@@ -1,0 +1,3704 @@
+Model compiled successfully in 40 ms.
+
+Input model: tmp/matmul_1_1.tflite
+Input size: 1.06KiB
+Output model: matmul_1_1_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 45 ms.
+
+Input model: tmp/matmul_1_2.tflite
+Input size: 1.07KiB
+Output model: matmul_1_2_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_1_4.tflite
+Input size: 1.07KiB
+Output model: matmul_1_4_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_1_8.tflite
+Input size: 1.08KiB
+Output model: matmul_1_8_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 44 ms.
+
+Input model: tmp/matmul_1_16.tflite
+Input size: 1.09KiB
+Output model: matmul_1_16_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 40 ms.
+
+Input model: tmp/matmul_1_32.tflite
+Input size: 1.10KiB
+Output model: matmul_1_32_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 48 ms.
+
+Input model: tmp/matmul_1_64.tflite
+Input size: 1.13KiB
+Output model: matmul_1_64_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 44 ms.
+
+Input model: tmp/matmul_1_128.tflite
+Input size: 1.20KiB
+Output model: matmul_1_128_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 50 ms.
+
+Input model: tmp/matmul_1_256.tflite
+Input size: 1.32KiB
+Output model: matmul_1_256_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_1_512.tflite
+Input size: 1.57KiB
+Output model: matmul_1_512_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 48 ms.
+
+Input model: tmp/matmul_1_1024.tflite
+Input size: 2.07KiB
+Output model: matmul_1_1024_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 49 ms.
+
+Input model: tmp/matmul_1_2048.tflite
+Input size: 3.07KiB
+Output model: matmul_1_2048_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.85MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 54 ms.
+
+Input model: tmp/matmul_1_4096.tflite
+Input size: 5.07KiB
+Output model: matmul_1_4096_edgetpu.tflite
+Output size: 52.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.83MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 56 ms.
+
+Input model: tmp/matmul_1_8192.tflite
+Input size: 9.07KiB
+Output model: matmul_1_8192_edgetpu.tflite
+Output size: 68.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.78MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 45 ms.
+
+Input model: tmp/matmul_2_1.tflite
+Input size: 1.07KiB
+Output model: matmul_2_1_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 40 ms.
+
+Input model: tmp/matmul_2_2.tflite
+Input size: 1.07KiB
+Output model: matmul_2_2_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 47 ms.
+
+Input model: tmp/matmul_2_4.tflite
+Input size: 1.08KiB
+Output model: matmul_2_4_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 40 ms.
+
+Input model: tmp/matmul_2_8.tflite
+Input size: 1.09KiB
+Output model: matmul_2_8_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 39 ms.
+
+Input model: tmp/matmul_2_16.tflite
+Input size: 1.10KiB
+Output model: matmul_2_16_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 40 ms.
+
+Input model: tmp/matmul_2_32.tflite
+Input size: 1.13KiB
+Output model: matmul_2_32_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_2_64.tflite
+Input size: 1.20KiB
+Output model: matmul_2_64_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 48 ms.
+
+Input model: tmp/matmul_2_128.tflite
+Input size: 1.32KiB
+Output model: matmul_2_128_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 44 ms.
+
+Input model: tmp/matmul_2_256.tflite
+Input size: 1.57KiB
+Output model: matmul_2_256_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 45 ms.
+
+Input model: tmp/matmul_2_512.tflite
+Input size: 2.07KiB
+Output model: matmul_2_512_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 54 ms.
+
+Input model: tmp/matmul_2_1024.tflite
+Input size: 3.07KiB
+Output model: matmul_2_1024_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 51 ms.
+
+Input model: tmp/matmul_2_2048.tflite
+Input size: 5.07KiB
+Output model: matmul_2_2048_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.85MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 58 ms.
+
+Input model: tmp/matmul_2_4096.tflite
+Input size: 9.07KiB
+Output model: matmul_2_4096_edgetpu.tflite
+Output size: 52.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.83MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 53 ms.
+
+Input model: tmp/matmul_2_8192.tflite
+Input size: 17.07KiB
+Output model: matmul_2_8192_edgetpu.tflite
+Output size: 68.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.78MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 40 ms.
+
+Input model: tmp/matmul_4_1.tflite
+Input size: 1.07KiB
+Output model: matmul_4_1_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_4_2.tflite
+Input size: 1.08KiB
+Output model: matmul_4_2_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_4_4.tflite
+Input size: 1.09KiB
+Output model: matmul_4_4_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_4_8.tflite
+Input size: 1.10KiB
+Output model: matmul_4_8_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 44 ms.
+
+Input model: tmp/matmul_4_16.tflite
+Input size: 1.13KiB
+Output model: matmul_4_16_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_4_32.tflite
+Input size: 1.20KiB
+Output model: matmul_4_32_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_4_64.tflite
+Input size: 1.32KiB
+Output model: matmul_4_64_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 256.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 53 ms.
+
+Input model: tmp/matmul_4_128.tflite
+Input size: 1.57KiB
+Output model: matmul_4_128_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 51 ms.
+
+Input model: tmp/matmul_4_256.tflite
+Input size: 2.07KiB
+Output model: matmul_4_256_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_4_512.tflite
+Input size: 3.07KiB
+Output model: matmul_4_512_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 49 ms.
+
+Input model: tmp/matmul_4_1024.tflite
+Input size: 5.07KiB
+Output model: matmul_4_1024_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 52 ms.
+
+Input model: tmp/matmul_4_2048.tflite
+Input size: 9.07KiB
+Output model: matmul_4_2048_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.85MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 62 ms.
+
+Input model: tmp/matmul_4_4096.tflite
+Input size: 17.07KiB
+Output model: matmul_4_4096_edgetpu.tflite
+Output size: 52.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.83MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 56 ms.
+
+Input model: tmp/matmul_4_8192.tflite
+Input size: 33.07KiB
+Output model: matmul_4_8192_edgetpu.tflite
+Output size: 68.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.78MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_8_1.tflite
+Input size: 1.08KiB
+Output model: matmul_8_1_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_8_2.tflite
+Input size: 1.09KiB
+Output model: matmul_8_2_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 47 ms.
+
+Input model: tmp/matmul_8_4.tflite
+Input size: 1.10KiB
+Output model: matmul_8_4_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_8_8.tflite
+Input size: 1.13KiB
+Output model: matmul_8_8_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_8_16.tflite
+Input size: 1.20KiB
+Output model: matmul_8_16_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_8_32.tflite
+Input size: 1.32KiB
+Output model: matmul_8_32_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_8_64.tflite
+Input size: 1.57KiB
+Output model: matmul_8_64_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 512.00B
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_8_128.tflite
+Input size: 2.07KiB
+Output model: matmul_8_128_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 44 ms.
+
+Input model: tmp/matmul_8_256.tflite
+Input size: 3.07KiB
+Output model: matmul_8_256_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 57 ms.
+
+Input model: tmp/matmul_8_512.tflite
+Input size: 5.07KiB
+Output model: matmul_8_512_edgetpu.tflite
+Output size: 36.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 51 ms.
+
+Input model: tmp/matmul_8_1024.tflite
+Input size: 9.07KiB
+Output model: matmul_8_1024_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 52 ms.
+
+Input model: tmp/matmul_8_2048.tflite
+Input size: 17.07KiB
+Output model: matmul_8_2048_edgetpu.tflite
+Output size: 52.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 59 ms.
+
+Input model: tmp/matmul_8_4096.tflite
+Input size: 33.07KiB
+Output model: matmul_8_4096_edgetpu.tflite
+Output size: 68.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 62 ms.
+
+Input model: tmp/matmul_8_8192.tflite
+Input size: 65.07KiB
+Output model: matmul_8_8192_edgetpu.tflite
+Output size: 100.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_16_1.tflite
+Input size: 1.09KiB
+Output model: matmul_16_1_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_16_2.tflite
+Input size: 1.10KiB
+Output model: matmul_16_2_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_16_4.tflite
+Input size: 1.13KiB
+Output model: matmul_16_4_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_16_8.tflite
+Input size: 1.20KiB
+Output model: matmul_16_8_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 44 ms.
+
+Input model: tmp/matmul_16_16.tflite
+Input size: 1.32KiB
+Output model: matmul_16_16_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_16_32.tflite
+Input size: 1.57KiB
+Output model: matmul_16_32_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_16_64.tflite
+Input size: 2.07KiB
+Output model: matmul_16_64_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 1.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_16_128.tflite
+Input size: 3.07KiB
+Output model: matmul_16_128_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 49 ms.
+
+Input model: tmp/matmul_16_256.tflite
+Input size: 5.07KiB
+Output model: matmul_16_256_edgetpu.tflite
+Output size: 36.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 49 ms.
+
+Input model: tmp/matmul_16_512.tflite
+Input size: 9.07KiB
+Output model: matmul_16_512_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 50 ms.
+
+Input model: tmp/matmul_16_1024.tflite
+Input size: 17.07KiB
+Output model: matmul_16_1024_edgetpu.tflite
+Output size: 52.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 62 ms.
+
+Input model: tmp/matmul_16_2048.tflite
+Input size: 33.07KiB
+Output model: matmul_16_2048_edgetpu.tflite
+Output size: 68.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 105 ms.
+
+Input model: tmp/matmul_16_4096.tflite
+Input size: 65.07KiB
+Output model: matmul_16_4096_edgetpu.tflite
+Output size: 100.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_16_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 123 ms.
+
+Input model: tmp/matmul_16_8192.tflite
+Input size: 129.07KiB
+Output model: matmul_16_8192_edgetpu.tflite
+Output size: 164.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_16_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 93 ms.
+
+Input model: tmp/matmul_32_1.tflite
+Input size: 1.10KiB
+Output model: matmul_32_1_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 80 ms.
+
+Input model: tmp/matmul_32_2.tflite
+Input size: 1.13KiB
+Output model: matmul_32_2_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 65 ms.
+
+Input model: tmp/matmul_32_4.tflite
+Input size: 1.20KiB
+Output model: matmul_32_4_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 67 ms.
+
+Input model: tmp/matmul_32_8.tflite
+Input size: 1.32KiB
+Output model: matmul_32_8_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 66 ms.
+
+Input model: tmp/matmul_32_16.tflite
+Input size: 1.57KiB
+Output model: matmul_32_16_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 65 ms.
+
+Input model: tmp/matmul_32_32.tflite
+Input size: 2.07KiB
+Output model: matmul_32_32_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 67 ms.
+
+Input model: tmp/matmul_32_64.tflite
+Input size: 3.07KiB
+Output model: matmul_32_64_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 2.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 76 ms.
+
+Input model: tmp/matmul_32_128.tflite
+Input size: 5.07KiB
+Output model: matmul_32_128_edgetpu.tflite
+Output size: 36.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 80 ms.
+
+Input model: tmp/matmul_32_256.tflite
+Input size: 9.07KiB
+Output model: matmul_32_256_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 71 ms.
+
+Input model: tmp/matmul_32_512.tflite
+Input size: 17.07KiB
+Output model: matmul_32_512_edgetpu.tflite
+Output size: 48.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 116 ms.
+
+Input model: tmp/matmul_32_1024.tflite
+Input size: 33.07KiB
+Output model: matmul_32_1024_edgetpu.tflite
+Output size: 68.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 97 ms.
+
+Input model: tmp/matmul_32_2048.tflite
+Input size: 65.07KiB
+Output model: matmul_32_2048_edgetpu.tflite
+Output size: 100.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 128 ms.
+
+Input model: tmp/matmul_32_4096.tflite
+Input size: 129.07KiB
+Output model: matmul_32_4096_edgetpu.tflite
+Output size: 164.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_32_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 162 ms.
+
+Input model: tmp/matmul_32_8192.tflite
+Input size: 257.07KiB
+Output model: matmul_32_8192_edgetpu.tflite
+Output size: 292.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_32_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 40 ms.
+
+Input model: tmp/matmul_64_1.tflite
+Input size: 1.13KiB
+Output model: matmul_64_1_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 59 ms.
+
+Input model: tmp/matmul_64_2.tflite
+Input size: 1.20KiB
+Output model: matmul_64_2_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 48 ms.
+
+Input model: tmp/matmul_64_4.tflite
+Input size: 1.32KiB
+Output model: matmul_64_4_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 45 ms.
+
+Input model: tmp/matmul_64_8.tflite
+Input size: 1.57KiB
+Output model: matmul_64_8_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_64_16.tflite
+Input size: 2.07KiB
+Output model: matmul_64_16_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_64_32.tflite
+Input size: 3.07KiB
+Output model: matmul_64_32_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 47 ms.
+
+Input model: tmp/matmul_64_64.tflite
+Input size: 5.07KiB
+Output model: matmul_64_64_edgetpu.tflite
+Output size: 36.59KiB
+On-chip memory used for caching model parameters: 4.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 45 ms.
+
+Input model: tmp/matmul_64_128.tflite
+Input size: 9.07KiB
+Output model: matmul_64_128_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 54 ms.
+
+Input model: tmp/matmul_64_256.tflite
+Input size: 17.07KiB
+Output model: matmul_64_256_edgetpu.tflite
+Output size: 48.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 51 ms.
+
+Input model: tmp/matmul_64_512.tflite
+Input size: 33.07KiB
+Output model: matmul_64_512_edgetpu.tflite
+Output size: 64.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 62 ms.
+
+Input model: tmp/matmul_64_1024.tflite
+Input size: 65.07KiB
+Output model: matmul_64_1024_edgetpu.tflite
+Output size: 100.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 73 ms.
+
+Input model: tmp/matmul_64_2048.tflite
+Input size: 129.07KiB
+Output model: matmul_64_2048_edgetpu.tflite
+Output size: 164.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 104 ms.
+
+Input model: tmp/matmul_64_4096.tflite
+Input size: 257.07KiB
+Output model: matmul_64_4096_edgetpu.tflite
+Output size: 292.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_64_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 130 ms.
+
+Input model: tmp/matmul_64_8192.tflite
+Input size: 513.07KiB
+Output model: matmul_64_8192_edgetpu.tflite
+Output size: 548.62KiB
+On-chip memory used for caching model parameters: 512.00KiB
+On-chip memory remaining for caching model parameters: 7.38MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_64_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_128_1.tflite
+Input size: 1.20KiB
+Output model: matmul_128_1_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_128_2.tflite
+Input size: 1.32KiB
+Output model: matmul_128_2_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_128_4.tflite
+Input size: 1.57KiB
+Output model: matmul_128_4_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_128_8.tflite
+Input size: 2.07KiB
+Output model: matmul_128_8_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_128_16.tflite
+Input size: 3.07KiB
+Output model: matmul_128_16_edgetpu.tflite
+Output size: 32.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 41 ms.
+
+Input model: tmp/matmul_128_32.tflite
+Input size: 5.07KiB
+Output model: matmul_128_32_edgetpu.tflite
+Output size: 36.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_128_64.tflite
+Input size: 9.07KiB
+Output model: matmul_128_64_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 8.00KiB
+On-chip memory remaining for caching model parameters: 7.87MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_128_128.tflite
+Input size: 17.07KiB
+Output model: matmul_128_128_edgetpu.tflite
+Output size: 48.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_128_256.tflite
+Input size: 33.07KiB
+Output model: matmul_128_256_edgetpu.tflite
+Output size: 64.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 58 ms.
+
+Input model: tmp/matmul_128_512.tflite
+Input size: 65.07KiB
+Output model: matmul_128_512_edgetpu.tflite
+Output size: 100.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 69 ms.
+
+Input model: tmp/matmul_128_1024.tflite
+Input size: 129.07KiB
+Output model: matmul_128_1024_edgetpu.tflite
+Output size: 164.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 94 ms.
+
+Input model: tmp/matmul_128_2048.tflite
+Input size: 257.07KiB
+Output model: matmul_128_2048_edgetpu.tflite
+Output size: 292.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 130 ms.
+
+Input model: tmp/matmul_128_4096.tflite
+Input size: 513.07KiB
+Output model: matmul_128_4096_edgetpu.tflite
+Output size: 548.62KiB
+On-chip memory used for caching model parameters: 512.00KiB
+On-chip memory remaining for caching model parameters: 7.38MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_128_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 214 ms.
+
+Input model: tmp/matmul_128_8192.tflite
+Input size: 1.00MiB
+Output model: matmul_128_8192_edgetpu.tflite
+Output size: 1.04MiB
+On-chip memory used for caching model parameters: 1.00MiB
+On-chip memory remaining for caching model parameters: 6.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_128_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_256_1.tflite
+Input size: 1.32KiB
+Output model: matmul_256_1_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_256_2.tflite
+Input size: 1.57KiB
+Output model: matmul_256_2_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 45 ms.
+
+Input model: tmp/matmul_256_4.tflite
+Input size: 2.07KiB
+Output model: matmul_256_4_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 42 ms.
+
+Input model: tmp/matmul_256_8.tflite
+Input size: 3.07KiB
+Output model: matmul_256_8_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 43 ms.
+
+Input model: tmp/matmul_256_16.tflite
+Input size: 5.07KiB
+Output model: matmul_256_16_edgetpu.tflite
+Output size: 40.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_256_32.tflite
+Input size: 9.07KiB
+Output model: matmul_256_32_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 47 ms.
+
+Input model: tmp/matmul_256_64.tflite
+Input size: 17.07KiB
+Output model: matmul_256_64_edgetpu.tflite
+Output size: 52.59KiB
+On-chip memory used for caching model parameters: 16.00KiB
+On-chip memory remaining for caching model parameters: 7.86MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 52 ms.
+
+Input model: tmp/matmul_256_128.tflite
+Input size: 33.07KiB
+Output model: matmul_256_128_edgetpu.tflite
+Output size: 68.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 68 ms.
+
+Input model: tmp/matmul_256_256.tflite
+Input size: 65.07KiB
+Output model: matmul_256_256_edgetpu.tflite
+Output size: 100.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 69 ms.
+
+Input model: tmp/matmul_256_512.tflite
+Input size: 129.07KiB
+Output model: matmul_256_512_edgetpu.tflite
+Output size: 164.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 104 ms.
+
+Input model: tmp/matmul_256_1024.tflite
+Input size: 257.07KiB
+Output model: matmul_256_1024_edgetpu.tflite
+Output size: 292.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 135 ms.
+
+Input model: tmp/matmul_256_2048.tflite
+Input size: 513.07KiB
+Output model: matmul_256_2048_edgetpu.tflite
+Output size: 548.62KiB
+On-chip memory used for caching model parameters: 512.00KiB
+On-chip memory remaining for caching model parameters: 7.38MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 214 ms.
+
+Input model: tmp/matmul_256_4096.tflite
+Input size: 1.00MiB
+Output model: matmul_256_4096_edgetpu.tflite
+Output size: 1.04MiB
+On-chip memory used for caching model parameters: 1.00MiB
+On-chip memory remaining for caching model parameters: 6.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_256_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 375 ms.
+
+Input model: tmp/matmul_256_8192.tflite
+Input size: 2.00MiB
+Output model: matmul_256_8192_edgetpu.tflite
+Output size: 2.04MiB
+On-chip memory used for caching model parameters: 2.00MiB
+On-chip memory remaining for caching model parameters: 5.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_256_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 44 ms.
+
+Input model: tmp/matmul_512_1.tflite
+Input size: 1.57KiB
+Output model: matmul_512_1_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_512_2.tflite
+Input size: 2.07KiB
+Output model: matmul_512_2_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 45 ms.
+
+Input model: tmp/matmul_512_4.tflite
+Input size: 3.07KiB
+Output model: matmul_512_4_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_512_8.tflite
+Input size: 5.07KiB
+Output model: matmul_512_8_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_512_16.tflite
+Input size: 9.07KiB
+Output model: matmul_512_16_edgetpu.tflite
+Output size: 44.59KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 48 ms.
+
+Input model: tmp/matmul_512_32.tflite
+Input size: 17.07KiB
+Output model: matmul_512_32_edgetpu.tflite
+Output size: 52.59KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 51 ms.
+
+Input model: tmp/matmul_512_64.tflite
+Input size: 33.07KiB
+Output model: matmul_512_64_edgetpu.tflite
+Output size: 68.62KiB
+On-chip memory used for caching model parameters: 32.00KiB
+On-chip memory remaining for caching model parameters: 7.84MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 66 ms.
+
+Input model: tmp/matmul_512_128.tflite
+Input size: 65.07KiB
+Output model: matmul_512_128_edgetpu.tflite
+Output size: 100.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 68 ms.
+
+Input model: tmp/matmul_512_256.tflite
+Input size: 129.07KiB
+Output model: matmul_512_256_edgetpu.tflite
+Output size: 164.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 93 ms.
+
+Input model: tmp/matmul_512_512.tflite
+Input size: 257.07KiB
+Output model: matmul_512_512_edgetpu.tflite
+Output size: 292.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 137 ms.
+
+Input model: tmp/matmul_512_1024.tflite
+Input size: 513.07KiB
+Output model: matmul_512_1024_edgetpu.tflite
+Output size: 548.62KiB
+On-chip memory used for caching model parameters: 512.00KiB
+On-chip memory remaining for caching model parameters: 7.38MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 215 ms.
+
+Input model: tmp/matmul_512_2048.tflite
+Input size: 1.00MiB
+Output model: matmul_512_2048_edgetpu.tflite
+Output size: 1.04MiB
+On-chip memory used for caching model parameters: 1.00MiB
+On-chip memory remaining for caching model parameters: 6.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 372 ms.
+
+Input model: tmp/matmul_512_4096.tflite
+Input size: 2.00MiB
+Output model: matmul_512_4096_edgetpu.tflite
+Output size: 2.04MiB
+On-chip memory used for caching model parameters: 2.00MiB
+On-chip memory remaining for caching model parameters: 5.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_512_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 722 ms.
+
+Input model: tmp/matmul_512_8192.tflite
+Input size: 4.00MiB
+Output model: matmul_512_8192_edgetpu.tflite
+Output size: 4.04MiB
+On-chip memory used for caching model parameters: 4.00MiB
+On-chip memory remaining for caching model parameters: 3.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_512_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 45 ms.
+
+Input model: tmp/matmul_1024_1.tflite
+Input size: 2.07KiB
+Output model: matmul_1024_1_edgetpu.tflite
+Output size: 56.59KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_1024_2.tflite
+Input size: 3.07KiB
+Output model: matmul_1024_2_edgetpu.tflite
+Output size: 56.59KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 46 ms.
+
+Input model: tmp/matmul_1024_4.tflite
+Input size: 5.07KiB
+Output model: matmul_1024_4_edgetpu.tflite
+Output size: 56.59KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 52 ms.
+
+Input model: tmp/matmul_1024_8.tflite
+Input size: 9.07KiB
+Output model: matmul_1024_8_edgetpu.tflite
+Output size: 56.59KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 51 ms.
+
+Input model: tmp/matmul_1024_16.tflite
+Input size: 17.07KiB
+Output model: matmul_1024_16_edgetpu.tflite
+Output size: 56.59KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 53 ms.
+
+Input model: tmp/matmul_1024_32.tflite
+Input size: 33.07KiB
+Output model: matmul_1024_32_edgetpu.tflite
+Output size: 72.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 59 ms.
+
+Input model: tmp/matmul_1024_64.tflite
+Input size: 65.07KiB
+Output model: matmul_1024_64_edgetpu.tflite
+Output size: 104.62KiB
+On-chip memory used for caching model parameters: 64.00KiB
+On-chip memory remaining for caching model parameters: 7.81MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 71 ms.
+
+Input model: tmp/matmul_1024_128.tflite
+Input size: 129.07KiB
+Output model: matmul_1024_128_edgetpu.tflite
+Output size: 168.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 99 ms.
+
+Input model: tmp/matmul_1024_256.tflite
+Input size: 257.07KiB
+Output model: matmul_1024_256_edgetpu.tflite
+Output size: 296.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 135 ms.
+
+Input model: tmp/matmul_1024_512.tflite
+Input size: 513.07KiB
+Output model: matmul_1024_512_edgetpu.tflite
+Output size: 552.62KiB
+On-chip memory used for caching model parameters: 512.00KiB
+On-chip memory remaining for caching model parameters: 7.38MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 335 ms.
+
+Input model: tmp/matmul_1024_1024.tflite
+Input size: 1.00MiB
+Output model: matmul_1024_1024_edgetpu.tflite
+Output size: 1.04MiB
+On-chip memory used for caching model parameters: 1.00MiB
+On-chip memory remaining for caching model parameters: 6.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 651 ms.
+
+Input model: tmp/matmul_1024_2048.tflite
+Input size: 2.00MiB
+Output model: matmul_1024_2048_edgetpu.tflite
+Output size: 2.04MiB
+On-chip memory used for caching model parameters: 2.00MiB
+On-chip memory remaining for caching model parameters: 5.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 1138 ms.
+
+Input model: tmp/matmul_1024_4096.tflite
+Input size: 4.00MiB
+Output model: matmul_1024_4096_edgetpu.tflite
+Output size: 4.04MiB
+On-chip memory used for caching model parameters: 4.00MiB
+On-chip memory remaining for caching model parameters: 3.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_1024_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 1501 ms.
+
+Input model: tmp/matmul_1024_8192.tflite
+Input size: 8.00MiB
+Output model: matmul_1024_8192_edgetpu.tflite
+Output size: 8.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 8.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_1024_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_1.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 50 ms.
+
+Input model: tmp/matmul_2048_1.tflite
+Input size: 3.07KiB
+Output model: matmul_2048_1_edgetpu.tflite
+Output size: 72.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 47 ms.
+
+Input model: tmp/matmul_2048_2.tflite
+Input size: 5.07KiB
+Output model: matmul_2048_2_edgetpu.tflite
+Output size: 72.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 50 ms.
+
+Input model: tmp/matmul_2048_4.tflite
+Input size: 9.07KiB
+Output model: matmul_2048_4_edgetpu.tflite
+Output size: 72.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 55 ms.
+
+Input model: tmp/matmul_2048_8.tflite
+Input size: 17.07KiB
+Output model: matmul_2048_8_edgetpu.tflite
+Output size: 72.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 53 ms.
+
+Input model: tmp/matmul_2048_16.tflite
+Input size: 33.07KiB
+Output model: matmul_2048_16_edgetpu.tflite
+Output size: 72.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 57 ms.
+
+Input model: tmp/matmul_2048_32.tflite
+Input size: 65.07KiB
+Output model: matmul_2048_32_edgetpu.tflite
+Output size: 104.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 74 ms.
+
+Input model: tmp/matmul_2048_64.tflite
+Input size: 129.07KiB
+Output model: matmul_2048_64_edgetpu.tflite
+Output size: 168.62KiB
+On-chip memory used for caching model parameters: 128.00KiB
+On-chip memory remaining for caching model parameters: 7.75MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 99 ms.
+
+Input model: tmp/matmul_2048_128.tflite
+Input size: 257.07KiB
+Output model: matmul_2048_128_edgetpu.tflite
+Output size: 296.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 135 ms.
+
+Input model: tmp/matmul_2048_256.tflite
+Input size: 513.07KiB
+Output model: matmul_2048_256_edgetpu.tflite
+Output size: 552.62KiB
+On-chip memory used for caching model parameters: 512.00KiB
+On-chip memory remaining for caching model parameters: 7.38MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 216 ms.
+
+Input model: tmp/matmul_2048_512.tflite
+Input size: 1.00MiB
+Output model: matmul_2048_512_edgetpu.tflite
+Output size: 1.04MiB
+On-chip memory used for caching model parameters: 1.00MiB
+On-chip memory remaining for caching model parameters: 6.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 376 ms.
+
+Input model: tmp/matmul_2048_1024.tflite
+Input size: 2.00MiB
+Output model: matmul_2048_1024_edgetpu.tflite
+Output size: 2.04MiB
+On-chip memory used for caching model parameters: 2.00MiB
+On-chip memory remaining for caching model parameters: 5.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 696 ms.
+
+Input model: tmp/matmul_2048_2048.tflite
+Input size: 4.00MiB
+Output model: matmul_2048_2048_edgetpu.tflite
+Output size: 4.04MiB
+On-chip memory used for caching model parameters: 4.00MiB
+On-chip memory remaining for caching model parameters: 3.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 1354 ms.
+
+Input model: tmp/matmul_2048_4096.tflite
+Input size: 8.00MiB
+Output model: matmul_2048_4096_edgetpu.tflite
+Output size: 8.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 8.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_2048_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 3062 ms.
+
+Input model: tmp/matmul_2048_8192.tflite
+Input size: 16.00MiB
+Output model: matmul_2048_8192_edgetpu.tflite
+Output size: 16.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 16.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_2048_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+
+Model compiled successfully in 47 ms.
+
+Input model: tmp/matmul_4096_1.tflite
+Input size: 5.07KiB
+Output model: matmul_4096_1_edgetpu.tflite
+Output size: 104.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 52 ms.
+
+Input model: tmp/matmul_4096_2.tflite
+Input size: 9.07KiB
+Output model: matmul_4096_2_edgetpu.tflite
+Output size: 104.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 58 ms.
+
+Input model: tmp/matmul_4096_4.tflite
+Input size: 17.07KiB
+Output model: matmul_4096_4_edgetpu.tflite
+Output size: 104.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 51 ms.
+
+Input model: tmp/matmul_4096_8.tflite
+Input size: 33.07KiB
+Output model: matmul_4096_8_edgetpu.tflite
+Output size: 104.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 60 ms.
+
+Input model: tmp/matmul_4096_16.tflite
+Input size: 65.07KiB
+Output model: matmul_4096_16_edgetpu.tflite
+Output size: 104.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 65 ms.
+
+Input model: tmp/matmul_4096_32.tflite
+Input size: 129.07KiB
+Output model: matmul_4096_32_edgetpu.tflite
+Output size: 168.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 91 ms.
+
+Input model: tmp/matmul_4096_64.tflite
+Input size: 257.07KiB
+Output model: matmul_4096_64_edgetpu.tflite
+Output size: 296.62KiB
+On-chip memory used for caching model parameters: 256.00KiB
+On-chip memory remaining for caching model parameters: 7.62MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 129 ms.
+
+Input model: tmp/matmul_4096_128.tflite
+Input size: 513.07KiB
+Output model: matmul_4096_128_edgetpu.tflite
+Output size: 552.62KiB
+On-chip memory used for caching model parameters: 512.00KiB
+On-chip memory remaining for caching model parameters: 7.38MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 210 ms.
+
+Input model: tmp/matmul_4096_256.tflite
+Input size: 1.00MiB
+Output model: matmul_4096_256_edgetpu.tflite
+Output size: 1.04MiB
+On-chip memory used for caching model parameters: 1.00MiB
+On-chip memory remaining for caching model parameters: 6.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 358 ms.
+
+Input model: tmp/matmul_4096_512.tflite
+Input size: 2.00MiB
+Output model: matmul_4096_512_edgetpu.tflite
+Output size: 2.04MiB
+On-chip memory used for caching model parameters: 2.00MiB
+On-chip memory remaining for caching model parameters: 5.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 701 ms.
+
+Input model: tmp/matmul_4096_1024.tflite
+Input size: 4.00MiB
+Output model: matmul_4096_1024_edgetpu.tflite
+Output size: 4.04MiB
+On-chip memory used for caching model parameters: 4.00MiB
+On-chip memory remaining for caching model parameters: 3.88MiB
+Off-chip memory used for streaming uncached model parameters: 0.00B
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_2048.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 1342 ms.
+
+Input model: tmp/matmul_4096_2048.tflite
+Input size: 8.00MiB
+Output model: matmul_4096_2048_edgetpu.tflite
+Output size: 8.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 8.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_4096.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 2723 ms.
+
+Input model: tmp/matmul_4096_4096.tflite
+Input size: 16.00MiB
+Output model: matmul_4096_4096_edgetpu.tflite
+Output size: 16.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 16.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_4096_8192.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 6953 ms.
+
+Input model: tmp/matmul_4096_8192.tflite
+Input size: 32.00MiB
+Output model: matmul_4096_8192_edgetpu.tflite
+Output size: 32.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 32.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_4096_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+
+Model compiled successfully in 47 ms.
+
+Input model: tmp/matmul_8192_1.tflite
+Input size: 9.07KiB
+Output model: matmul_8192_1_edgetpu.tflite
+Output size: 156.62KiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 128.00KiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_1_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_2.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 50 ms.
+
+Input model: tmp/matmul_8192_2.tflite
+Input size: 17.07KiB
+Output model: matmul_8192_2_edgetpu.tflite
+Output size: 156.62KiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 128.00KiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_2_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_4.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 54 ms.
+
+Input model: tmp/matmul_8192_4.tflite
+Input size: 33.07KiB
+Output model: matmul_8192_4_edgetpu.tflite
+Output size: 156.62KiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 128.00KiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_4_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_8.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 90 ms.
+
+Input model: tmp/matmul_8192_8.tflite
+Input size: 65.07KiB
+Output model: matmul_8192_8_edgetpu.tflite
+Output size: 156.62KiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 128.00KiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_8_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_16.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 113 ms.
+
+Input model: tmp/matmul_8192_16.tflite
+Input size: 129.07KiB
+Output model: matmul_8192_16_edgetpu.tflite
+Output size: 156.62KiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 128.00KiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_16_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_32.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 135 ms.
+
+Input model: tmp/matmul_8192_32.tflite
+Input size: 257.07KiB
+Output model: matmul_8192_32_edgetpu.tflite
+Output size: 284.62KiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 256.00KiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_32_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_64.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 216 ms.
+
+Input model: tmp/matmul_8192_64.tflite
+Input size: 513.07KiB
+Output model: matmul_8192_64_edgetpu.tflite
+Output size: 540.62KiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 512.00KiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_64_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_128.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 340 ms.
+
+Input model: tmp/matmul_8192_128.tflite
+Input size: 1.00MiB
+Output model: matmul_8192_128_edgetpu.tflite
+Output size: 1.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 1.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_128_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_256.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 598 ms.
+
+Input model: tmp/matmul_8192_256.tflite
+Input size: 2.00MiB
+Output model: matmul_8192_256_edgetpu.tflite
+Output size: 2.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 2.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_256_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_512.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 793 ms.
+
+Input model: tmp/matmul_8192_512.tflite
+Input size: 4.00MiB
+Output model: matmul_8192_512_edgetpu.tflite
+Output size: 4.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 4.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_512_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+env: TFLITE_FILE=tmp/matmul_8192_1024.tflite
+Edge TPU Compiler version 16.0.384591198
+Started a compilation timeout timer of 180 seconds.
+
+Model compiled successfully in 1355 ms.
+
+Input model: tmp/matmul_8192_1024.tflite
+Input size: 8.00MiB
+Output model: matmul_8192_1024_edgetpu.tflite
+Output size: 8.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 8.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_1024_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+
+Model compiled successfully in 3460 ms.
+
+Input model: tmp/matmul_8192_2048.tflite
+Input size: 16.00MiB
+Output model: matmul_8192_2048_edgetpu.tflite
+Output size: 16.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 16.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_2048_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+
+
+Model compiled successfully in 7007 ms.
+
+Input model: tmp/matmul_8192_4096.tflite
+Input size: 32.00MiB
+Output model: matmul_8192_4096_edgetpu.tflite
+Output size: 32.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 32.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_4096_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 
+
+Input model: tmp/matmul_8192_8192.tflite
+Input size: 64.00MiB
+Output model: matmul_8192_8192_edgetpu.tflite
+Output size: 64.03MiB
+On-chip memory used for caching model parameters: 0.00B
+On-chip memory remaining for caching model parameters: 7.88MiB
+Off-chip memory used for streaming uncached model parameters: 64.00MiB
+Number of Edge TPU subgraphs: 1
+Total number of operations: 1
+Operation log: matmul_8192_8192_edgetpu.log
+See the operation log file for individual operation details.
+Compilation child process completed within timeout period.
+Compilation succeeded! 

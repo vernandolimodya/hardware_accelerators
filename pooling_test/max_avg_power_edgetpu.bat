@@ -1,0 +1,2 @@
+python runInference_edgetpu_power_avgpooling2d.py
+python runInference_edgetpu_power_maxpooling2d.py

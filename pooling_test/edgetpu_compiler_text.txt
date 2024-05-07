@@ -1,0 +1,22 @@
+import numpy as np
+import shutil
+from google.colab import files
+
+for i in [2,4,6,8,10,12,14,16]:
+      tflite_file = f"tmp/maxpooling2d_{i}.tflite"
+      %env TFLITE_FILE=$tflite_file
+      ! edgetpu_compiler $TFLITE_FILE
+
+      shutil.copy("maxpooling2d_" + str(i) + "_edgetpu.tflite", "tmp/")
+      shutil.copy("maxpooling2d_" + str(i) + "_edgetpu.log", "tmp/")
+
+      tflite_file = f"tmp/avgpooling2d_{i}.tflite"
+      %env TFLITE_FILE=$tflite_file
+      ! edgetpu_compiler $TFLITE_FILE
+
+      shutil.copy("avgpooling2d_" + str(i) + "_edgetpu.tflite", "tmp/")
+      shutil.copy("avgpooling2d_" + str(i) + "_edgetpu.log", "tmp/")
+
+
+shutil.make_archive("output_pooling2d", 'zip', "tmp")
+files.download('output_pooling2d.zip')

@@ -1,0 +1,2 @@
+python runInference_ncs2_avgpooling2d.py
+python runInference_ncs2_maxpooling2d.py

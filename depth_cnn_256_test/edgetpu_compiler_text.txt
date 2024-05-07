@@ -1,0 +1,18 @@
+import numpy as np
+import shutil
+import os
+from google.colab import files
+
+if not os.path.exists("edgetpu/"):
+      os.mkdir("edgetpu/")
+
+for i in np.arange(1,11,1):
+      tflite_file = f"tmp/depth_conv2d_{i}.tflite"
+      %env TFLITE_FILE=$tflite_file
+      ! edgetpu_compiler $TFLITE_FILE
+
+      shutil.copy("depth_conv2d_" + str(i) + "_edgetpu.tflite", "edgetpu/")
+      shutil.copy("depth_conv2d_" + str(i) + "_edgetpu.log", "edgetpu/")
+
+shutil.make_archive("output_256_depth", 'zip', "edgetpu")
+files.download('output_256_depth.zip')

@@ -1,0 +1,18 @@
+import numpy as np
+import shutil
+import os
+from google.colab import files
+
+if not os.path.exists("edgetpu/"):
+      os.mkdir("edgetpu/")
+
+for i in ["DenseNet121", "MobileNet", "ResNet50", "ResNet50V2", "VGG16", "VGG19"]:
+      tflite_file = f"tmp/{i}.tflite"
+      %env TFLITE_FILE=$tflite_file
+      ! edgetpu_compiler $TFLITE_FILE
+
+      shutil.copy(str(i) + "_edgetpu.tflite", "edgetpu/")
+      shutil.copy(str(i) + "_edgetpu.log", "edgetpu/")
+
+shutil.make_archive("output_bench", 'zip', "tmp")
+files.download('output_bench.zip')

@@ -1,0 +1,4 @@
+Zipped file size of vgg16_sparsity_0.75 :  5866045 bytes
+Zipped file size of vgg16_sparsity_0.5  :  9731646 bytes
+Zipped file size of vgg16_sparsity_0.25 : 12555388 bytes
+Zipped file size of vgg16_sparsity_0.0  : 14281394 bytes

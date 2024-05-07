@@ -1,0 +1,14 @@
+import numpy as np
+import shutil
+from google.colab import files
+
+for i in [3,5,7,9,11,13,15,17,19,21,23]:
+      tflite_file = f"tmp/conv2d_{i}.tflite"
+      %env TFLITE_FILE=$tflite_file
+      ! edgetpu_compiler $TFLITE_FILE
+
+      shutil.copy("conv2d_" + str(i) + "_edgetpu.tflite", "tmp/")
+      shutil.copy("conv2d_" + str(i) + "_edgetpu.log", "tmp/")
+
+shutil.make_archive("output_conv2d", 'zip', "tmp")
+files.download('output_conv2d.zip')

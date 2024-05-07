@@ -1,0 +1,21 @@
+# make sure to use the vernando.masterarbeit@gmail.com
+
+
+from google.colab import drive
+import os
+import shutil
+
+drive.mount('/content/drive/',force_remount=True)
+
+data_simulations_folder = "drive/MyDrive/Limodya_MA/data_simulations/matmul_test/tpu_models_ext3"
+
+
+for i in [16384]:
+   for j in [16384]:
+	
+      tflite_file = f"drive/MyDrive/Limodya_MA/data_simulations/matmul_test/tpu_models_ext3/matmul_{i}_{j}.tflite"
+      %env TFLITE_FILE=$tflite_file
+      ! edgetpu_compiler $TFLITE_FILE
+
+      shutil.copy("matmul_" + str(i) + "_" + str(j) + "_edgetpu.tflite", "drive/MyDrive/Limodya_MA/data_simulations/matmul_test/tpu_models_ext3/")
+      shutil.copy("matmul_" + str(i) + "_" + str(j) + "_edgetpu.log", "drive/MyDrive/Limodya_MA/data_simulations/matmul_test/tpu_models_ext3/")

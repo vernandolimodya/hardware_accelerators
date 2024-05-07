@@ -1,0 +1,1 @@
+call "C:\Program Files (x86)\Intel\w_openvino_toolkit_windows_2022.3.1.9227.cf2c7da5689_x86_64\setupvars.bat"

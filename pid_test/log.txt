@@ -1,0 +1,5 @@
+2023-09-09 21:40:49.144219: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:364] Ignored output_format.
+2023-09-09 21:40:49.144470: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:367] Ignored drop_control_dependency.
+2023-09-09 21:40:49.209373: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE SSE2 SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-09 21:40:49.269998: I tensorflow/compiler/mlir/lite/flatbuffer_export.cc:2138] Estimated count of arithmetic ops: 651.083 M  ops, equivalently 325.542 M  MACs
